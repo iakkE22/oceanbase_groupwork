@@ -71,7 +71,6 @@ const ripple = keyframes`
   }
 `;
 
-// 海洋系导航栏
 const OceanAppBar = styled(AppBar)(({ theme }) => ({
   background: 'linear-gradient(135deg, #e0f2fe 0%, #b3e5fc 25%, #81d4fa 50%, #4fc3f7 75%, #29b6f6 100%)',
   backgroundSize: '400% 400%',
