@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression  # 修正导入语句
-
+#测试2
 # 读取数据集
 def load_data(file_path):
     data = []

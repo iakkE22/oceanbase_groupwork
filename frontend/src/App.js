@@ -37,7 +37,6 @@ import BlankPage from './pages/BlankPage';
 import UserInfoPage from './pages/UserInfoPage';
 import DataUploadPage from './pages/DataUploadPage';
 
-// 海洋系动画定义
 const waveAnimation = keyframes`
   0% {
     background-position: 0% 50%;
